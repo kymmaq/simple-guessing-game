@@ -8,7 +8,7 @@ print(
 Let's play the game!
 Take a look at the boxes below:
 -----------
-|| || |_|
+|_| |_| |_|
 -----------
 I have 3 boxes here.
 Only one of them has a ball inside.
